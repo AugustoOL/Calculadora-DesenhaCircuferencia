@@ -1,0 +1,27 @@
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe.config
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\bin\Debug\Calculadora Grafica.pdb
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.csprojResolveAssemblyReference.cache
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Form1.resources
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Properties.Resources.resources
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.csproj.GenerateResource.Cache
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.exe
+d:\ProjetoCalculadoraGrafica\Calculadora Grafica\obj\Debug\Calculadora Grafica.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe.config
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\obj\Debug\Calculadora Grafica.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\obj\Debug\Calculadora Grafica.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\bin\Debug\Calculadora Grafica.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\obj\Debug\Calculadora Grafica.csprojResolveAssemblyReference.cache
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Form1.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Properties.Resources.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica Desenho\Calculadora Grafica\obj\Debug\Calculadora Grafica.csproj.GenerateResource.Cache
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe.config
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\obj\Debug\Calculadora Grafica.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\obj\Debug\Calculadora Grafica.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\bin\Debug\Calculadora Grafica.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\bin\Debug\Calculadora Grafica.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\obj\Debug\Calculadora Grafica.csprojResolveAssemblyReference.cache
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Form1.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\obj\Debug\Calculadora_Grafica.Properties.Resources.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Calculadora Grafica - Desenha Circuferencia\Calculadora Grafica\obj\Debug\Calculadora Grafica.csproj.GenerateResource.Cache

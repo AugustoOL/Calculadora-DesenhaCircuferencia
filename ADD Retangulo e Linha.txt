@@ -1,0 +1,8 @@
+ADD RETANGULO
+tela.DrawRectangle(caneta, 110, 50,
+                (int)raio, (int)raio);
+tela.DrawRectangle(caneta, (int)(cx - d / 2), (int)(cy - d / 2),
+                (int)d, (int)d);
+ADD LINHA
+tela.DrawLine(caneta, 0, cy, pnDesenho.Width, cy);
+tela.DrawLine(caneta, cx, 0, cx, pnDesenho.Height);
