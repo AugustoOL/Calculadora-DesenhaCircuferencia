@@ -19,9 +19,9 @@ O projeto consiste em uma calculadora que ira calcular Area, Perimetro e Volume 
 Requisitos: 
 - Visual Studio 
 
-Dowload:
+Download:
 - Baixar o arquivo e extrair
-- Executalo no Visual Studio
+- Executar no Visual Studio
 
 
 ## :rocket: Tecnologias
